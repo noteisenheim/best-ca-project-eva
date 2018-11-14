@@ -1,4 +1,4 @@
-module rotary_encoder (input dt, input sw);  // sw is pinned to the sensor A output, dt - to the sensor B output
+module simple_rotary_encoder (input dt, input sw);  // sw is pinned to the sensor A output, dt - to the sensor B output
 
 	reg [7:0] rot = 0;  // counter of rotations
 	
