@@ -3,7 +3,7 @@
 
 Here you can see our project files:
 
-* **Music box** (without comments): [here](https://github.com/noteisenheim/best-ca-project-eva/blob/master/musec.v)
+* **Music box** (without comments) (_for real men_): [here](https://github.com/noteisenheim/best-ca-project-eva/blob/master/musec.v)
 
 * **Music box** (with comments): [here](https://github.com/noteisenheim/best-ca-project-eva/blob/master/musec2.v)
 
@@ -16,7 +16,7 @@ Here you can see our project files:
   Notes are played sequentially. The variable cur shows what note is being played right now. We determine the frequency using tone_value and create square waves using clock divider. 
 
 
-* **Rotary encoder** (without comments): [here](https://github.com/noteisenheim/best-ca-project-eva/blob/master/rotary_encoder.v)
+* **Rotary encoder** (without comments) (_for real men_): [here](https://github.com/noteisenheim/best-ca-project-eva/blob/master/rotary_encoder.v)
 
 * **Simplified rotary encoder** (with comments): [here](https://github.com/noteisenheim/best-ca-project-eva/blob/master/simple_rotary_encoder.v)
 
