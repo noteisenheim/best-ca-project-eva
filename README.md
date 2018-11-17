@@ -26,6 +26,8 @@ Here you can see our project files:
   
       (angle = (number of rotations mod 20) * 18)
   Output is to the 8-segment display
+  
+  (Also, there may be some inaccuracy in responses of a rotary encoder)
 
 * **Interaction with ps/2 keyboard** (with comments): [here](https://github.com/noteisenheim/best-ca-project-eva/blob/master/help.v)
 
